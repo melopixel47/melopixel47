@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .hugorngoufack@fmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..I'm a junior software developper with big dreams
+- 😄 Pronouns: .I'm a junior software developper with big dreams
+- ⚡ Fun fact: ..funny and jovial computer enthausiat!
 
 <!---
 melopixel47/melopixel47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
